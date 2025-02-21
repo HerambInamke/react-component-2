@@ -5,7 +5,7 @@ const Productcard = () => {
   // Static product details
   const productImage = "https://via.placeholder.com/150";
   const productName = "Sample Product";
-  const productPrice = "$49.99";
+  const productPrice = "1.00";
 
   const handleViewProduct = () => {
     alert("Viewing product details...");
